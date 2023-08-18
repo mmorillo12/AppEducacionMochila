@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66772906819",
+    "project_id": "mochilamochila-ffc3b",
+    "storage_bucket": "mochilamochila-ffc3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66772906819:android:d45463a1208cbc547df5f6",
+        "android_client_info": {
+          "package_name": "com.backpack.mochilamochila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66772906819-gj3sam5hvcqe6gpi4g656b1a3ehsr6tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.backpack.mochilamochila",
+            "certificate_hash": "57ef4ea1a297b8ef1ce6c7f4a738444ed475952e"
+          }
+        },
+        {
+          "client_id": "66772906819-d312hllo0bf78lv7ucr8b0t43ek8e8go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbat5gLGwMsjDaWSfTvz2U6_0l4fcjFIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66772906819-d312hllo0bf78lv7ucr8b0t43ek8e8go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
